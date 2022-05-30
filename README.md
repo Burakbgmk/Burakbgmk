@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burak Boğmak</h1>
-<h3 align="center">An ambitious Software Developer.</h3>
+<h1 align="left">Hi 👋, I'm Burak Boğmak</h1>
+<h3 align="left">An ambitious Software Developer.</h3>
 
 - 🌱 I’m currently learning **C#, .NET, Unity and Javascript**
 
