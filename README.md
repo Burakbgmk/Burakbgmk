@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Burak Boğmak</h1>
 <h3 align="left">An ambitious Software Developer.</h3>
 
-- 🌱 I’m currently learning **C#, .NET, Unity and Javascript**
+- 🌱 I’m currently learning **Rust, Typescript and Java**
 
 - 📫 How to reach me **burakbogmak@gmail.com**
 
