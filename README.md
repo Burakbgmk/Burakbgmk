@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust and Typescript.**
 
-- 🌱 I'm working as a Software Engineer at METU Computer Center using mainly Java.
+- 🌱 I'm working as a Software Engineer using mainly Java.
 
 - 📫 How to reach me **burakbogmak@gmail.com**
 
