@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Burak Boğmak</h1>
 <h3 align="left">An ambitious Software Developer.</h3>
 
-- 🌱 I’m currently learning and building side projects with **Go and C++.**
+- 🌱 I’m currently learning and building side projects with **Go and Rust.**
 
 - 🌱 I'm working as a Software Engineer using mainly Java, SQL and Javascript.
 
